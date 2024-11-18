@@ -13,9 +13,9 @@
          <version>1.7.0</version>
       </dependency>
       <dependency>
-         <groupId>com.github.jonasrutishauser</groupId>
+         <groupId>io.github.jonasrutishauser</groupId>
          <artifactId>transactional-event-api</artifactId>
-         <version>2.0.0</version>
+         <version>3.0.0</version>
       </dependency>
       <dependency>
          <groupId>org.apache.commons</groupId>
